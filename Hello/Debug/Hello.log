@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/3/27 16:56:34。
+     1>项目“E:\C++学习\C语言C++学习指南（零基础入门）邵发\Hello\Hello\Hello.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "main9-test.cpp"
+         main9-test.cpp
+       Link:
+         D:\Program Files (x86)\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++学习\C语言C++学习指南（零基础入门）邵发\Hello\Debug\Hello.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C++学习\C语言C++学习指南（零基础入门）邵发\Hello\Debug\Hello.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++学习\C语言C++学习指南（零基础入门）邵发\Hello\Debug\Hello.lib" /MACHINE:X86 "Debug\main-7test.obj"
+         Debug\main1.obj
+         Debug\main4.obj
+         Debug\main6.obj
+         Debug\main7.obj
+         "Debug\main8-test.obj"
+         "Debug\main8-test1.obj"
+         "Debug\main9-test.obj"
+         Debug\main9.obj
+         "Debug\mian5-train.obj"
+         "Debug\mian7-train.obj"
+         Debug\mian8.obj
+         Debug\train.obj
+         Hello.vcxproj -> E:\C++学习\C语言C++学习指南（零基础入门）邵发\Hello\Debug\Hello.exe
+     1>已完成生成项目“E:\C++学习\C语言C++学习指南（零基础入门）邵发\Hello\Hello\Hello.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.11
